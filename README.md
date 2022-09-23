@@ -11,4 +11,4 @@ https://njit.instructure.com/courses/25694/assignments/260046?module_item_id=881
 **Push:** the delivery of information on the Web that is initiated by the information server rather than by the information user or client
 **Pull:** the more traditional approach, in which a user or software client makes the initial request for info
 **Remote:** Software for controlling a computer remotely via another device that's connected through a network or the Internet.
-**Repository:** a storage location for software packages.
+**Repository:** a storage location for software packages
