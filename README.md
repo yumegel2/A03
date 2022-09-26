@@ -1,6 +1,18 @@
 # A03
 https://njit.instructure.com/courses/25694/assignments/260046?module_item_id=881255
 
+Tutorial
+
+1. Get licence for webstorm (https://www.jetbrains.com/community/education/#students) 
+2. Make a GitHub account (https://github.com/)
+3. Connect Github with Webstorm
+    * In Webstorm press (Ctrl+Alt+S) for system preferences. 
+    * Choose GitHub and link account
+5. Create a Repository on GitHub (https://github.com/)
+6. 
+
+Glossary
+
 **Branch:** an instruction in a computer program that can cause a computer to begin executing a different instruction sequence and thus deviate from its default behavior of executing instructions in order.
 
 **Clone:** the process of creating an exact copy of another application program or object.
