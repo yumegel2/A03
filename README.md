@@ -17,7 +17,9 @@ Tutorial
    * Right click in the project space.
 8. Commit Your Changes
    * Crtl + K
+               
                OR
+               
    * Click the Green Checkmark
 
 Glossary
