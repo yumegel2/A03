@@ -9,7 +9,16 @@ Tutorial
     * In Webstorm press (Ctrl+Alt+S) for system preferences. 
     * Choose GitHub and link account
 5. Create a Repository on GitHub (https://github.com/)
-6. 
+   * Make the repository public 
+   * Add the readme file.
+6. Import a Repository from Github
+   * Open new project from version control
+7. Creating a Webstorm File
+   * Right click in the project space.
+8. Commit Your Changes
+   * Crtl + K
+               OR
+   * Click the Green Checkmark
 
 Glossary
 
